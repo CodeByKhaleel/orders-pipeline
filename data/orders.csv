@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price
+1001,C001,2026-10-01,Laptop,Electronics,1,75000
+1002,C002,2026-10-01,Mouse,Electronics,-2,800
+1003,C003,2026-10-02,Keyboard,Electronics,1,1500
+1004,C004,2026-10-03,Headphones,Electronics,2,2500
+1005,C005,2026-10-03,Monitor,Electronics,1,15000
+1006,C006,2026-10-04,Laptop,Electronics,1,75000
+1007,C007,2026-10-04,Mouse,Electronics,3,800
+1008,C008,2026-10-05,Keyboard,Electronics,2,1500
