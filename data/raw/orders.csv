@@ -1,9 +1,201 @@
 order_id,customer_id,order_date,product,category,quantity,unit_price
-"1001",C001,2026-10-01,Laptop,Electronics,1,75000
-1002,C002,2026-10-01,Mouse,Electronics,-2,800
-1003,C003,2026-10-02,Keyboard,Electronics,1,1500
-1004,C004,2026-10-03,Headphones,Electronics,2,"2500"
-1005,C005,2026-10-03,Monitor,Electronics,null,15000
-1006,C006,2026-10-04,Laptop,Electronics,75000   
-1007,C007,2026-10-04,Mouse,Electronics,3,800
-1008,C008,2026-10-05,Keyboard,Electronics,2,1500
+1001,C008,2026-10-24,Laptop,Electronics,5,75000
+1002,C016,2026-10-05,USB-C Cable,Electronics,2,450
+1003,C035,2026-10-19,Keyboard,Electronics,7,1500
+1004,C003,2026-10-03,Laptop,Electronics,4,75000
+1005,C015,2026-10-20,Coffee Maker,Home & Kitchen,1,4500
+1006,C036,2026-10-23,Tablet,Electronics,7,28000
+1007,C015,2026-10-19,Whiteboard,Office Supplies,5,1800
+1008,C001,2026-10-26,Bluetooth Speaker,Accessories,3,3500
+1009,C028,,Ergonomic Chair,Office Supplies,5,12000
+1010,C010,2026-10-31,Tablet,Electronics,6,28000
+1011,C007,2026-10-13,Keyboard,Electronics,2,1500
+1012,C023,2026-10-20,Desk Mat,Office Supplies,5,700
+1013,C003,2026-10-15,Wireless Charger,Accessories,2,1800
+1014,C025,2026-10-18,Keyboard,Electronics,5,1500
+1015,C040,2026-10-19,Desk Mat,Office Supplies,4,700
+1016,C005,2026-10-22,Mouse,Electronics,-2,800
+1017,C019,2026-10-28,Keyboard,Electronics,4,1500
+1018,C007,2026-10-09,Notebook,Office Supplies,8,150
+1019,C024,2026-10-12,Smartwatch,Electronics,6,5500
+1020,C014,2026-10-09,Desk Lamp,Home & Kitchen,2,1200
+1006,C036,2026-10-23,Tablet,Electronics,7,28000
+1021,C035,2026-10-08,Wireless Charger,Accessories,3,1800
+1022,C030,2026-10-09,Notebook,Office Supplies,4,150
+1023,C021,2026-10-25,Bluetooth Speaker,Accessories,1,3500
+1024,C015,2026-10-26,Mouse,Electronics,6,800
+1025,C026,,External SSD,Electronics,2,8500
+1026,C014,2026-10-29,Blender,Home & Kitchen,6,2800
+1027,C014,2026-10-16,Air Purifier,Home & Kitchen,7,9500
+1028,C030,2026-10-09,Monitor,Electronics,3,15000
+1029,C016,2026-10-18,Wireless Charger,Accessories,5,1800
+1030,C038,2026-10-29,Ballpoint Pen,Office Supplies,7,50
+1031,C024,2026-10-05,USB-C Cable,Electronics,8,450
+1032,C006,2026-10-02,Bluetooth Speaker,Accessories,-1,3500
+1033,C010,2026-10-06,Air Purifier,Home & Kitchen,7,9500
+1034,C039,2026-10-13,Keyboard,Electronics,7,1500
+1035,C039,2026-10-17,Whiteboard,Office Supplies,5,1800
+1036,C036,2026-10-22,Laptop,Electronics,2,75000
+1037,C035,2026-10-09,Bluetooth Speaker,Accessories,6,3500
+1038,C008,2026-10-14,Web Camera,Electronics,3,3200
+1034,C039,2026-10-13,Keyboard,Electronics,7,1500
+1039,C001,2026-10-29,Wireless Charger,Accessories,5,1800
+1040,C033,2026-10-06,Bluetooth Speaker,Accessories,2,3500
+1041,C020,,Air Purifier,Home & Kitchen,4,9500
+1042,C010,2026-10-25,Desk Mat,Office Supplies,3,700
+1043,C035,2026-10-30,Bluetooth Speaker,Accessories,1,3500
+1044,C039,2026-10-16,Ergonomic Chair,Office Supplies,1,12000
+1045,C008,2026-10-29,Desk Mat,Office Supplies,5,700
+1046,C016,2026-10-08,Mouse,Electronics,2,800
+1047,C006,2026-10-16,Wireless Charger,Accessories,-1,1800
+1048,C035,2026-10-05,Bluetooth Speaker,Accessories,3,3500
+1049,C031,2026-10-06,Electric Kettle,Home & Kitchen,5,1600
+1050,C034,2026-10-14,Water Bottle,Home & Kitchen,4,600
+1051,C035,2026-10-24,Bluetooth Speaker,Accessories,4,3500
+1052,C020,2026-10-22,Notebook,Office Supplies,6,150
+1033,C010,2026-10-06,Air Purifier,Home & Kitchen,7,9500
+1053,C034,2026-10-04,Whiteboard,Office Supplies,4,1800
+1054,C015,2026-10-11,Keyboard,Electronics,1,1500
+1055,C038,2026-10-08,Electric Kettle,Home & Kitchen,4,1600
+1056,C001,2026-10-23,Keyboard,Electronics,1,1500
+1057,C015,,Keyboard,Electronics,1,1500
+1058,C022,2026-10-17,Keyboard,Electronics,4,1500
+1059,C018,2026-10-16,Desk Lamp,Home & Kitchen,4,1200
+1060,C035,2026-10-24,Monitor,Electronics,8,15000
+1061,C016,2026-10-16,Backpack,Accessories,7,2200
+1062,C013,2026-10-04,Headphones,Electronics,7,2500
+1063,C023,2026-10-14,Ballpoint Pen,Office Supplies,-4,50
+1064,C004,2026-10-21,Desk Lamp,Home & Kitchen,2,1200
+1065,C004,2026-10-24,Notebook,Office Supplies,6,150
+1066,C007,2026-10-07,USB-C Cable,Electronics,4,450
+1067,C035,2026-10-05,Whiteboard,Office Supplies,7,1800
+1068,C012,2026-10-15,External SSD,Electronics,4,8500
+1064,C004,2026-10-21,Desk Lamp,Home & Kitchen,2,1200
+1069,C005,2026-10-26,Whiteboard,Office Supplies,2,1800
+1070,C004,2026-10-18,Air Purifier,Home & Kitchen,1,9500
+1071,C006,2026-10-28,Bluetooth Speaker,Accessories,4,3500
+1072,C011,2026-10-16,Ballpoint Pen,Office Supplies,8,50
+1073,C014,,Notebook,Office Supplies,1,150
+1074,C011,2026-10-01,Notebook,Office Supplies,7,150
+1075,C017,2026-10-26,Backpack,Accessories,8,2200
+1076,C019,2026-10-23,Ballpoint Pen,Office Supplies,8,50
+1077,C010,2026-10-10,Tablet,Electronics,4,28000
+1078,C004,2026-10-24,Blender,Home & Kitchen,1,2800
+1079,C021,2026-10-02,Mouse,Electronics,-5,800
+1080,C031,2026-10-30,Coffee Maker,Home & Kitchen,3,4500
+1081,C004,2026-10-03,Coffee Maker,Home & Kitchen,3,4500
+1082,C005,2026-10-03,Water Bottle,Home & Kitchen,4,600
+1083,C026,2026-10-31,Headphones,Electronics,4,2500
+1084,C038,2026-10-02,Water Bottle,Home & Kitchen,2,600
+1061,C016,2026-10-16,Backpack,Accessories,7,2200
+1085,C038,2026-10-17,Blender,Home & Kitchen,6,2800
+1086,C017,2026-10-22,Tablet,Electronics,6,28000
+1087,C016,,External SSD,Electronics,7,8500
+1088,C009,2026-10-21,Desk Lamp,Home & Kitchen,5,1200
+1089,C030,2026-10-30,Ergonomic Chair,Office Supplies,2,12000
+1090,C001,2026-10-20,Whiteboard,Office Supplies,2,1800
+1091,C005,2026-10-07,Electric Kettle,Home & Kitchen,5,1600
+1092,C009,2026-10-29,Desk Mat,Office Supplies,2,700
+1093,C016,2026-10-10,Desk Mat,Office Supplies,-2,700
+1094,C029,2026-10-23,Electric Kettle,Home & Kitchen,5,1600
+1095,C040,2026-10-21,Backpack,Accessories,1,2200
+1096,C036,2026-10-30,Web Camera,Electronics,2,3200
+1097,C009,2026-10-04,External SSD,Electronics,2,8500
+1098,C036,2026-10-09,Monitor,Electronics,5,15000
+1089,C030,2026-10-30,Ergonomic Chair,Office Supplies,2,12000
+1099,C014,2026-10-11,Laptop Stand,Accessories,4,1400
+1100,C017,2026-10-16,Coffee Maker,Home & Kitchen,5,4500
+1101,C004,2026-10-21,Keyboard,Electronics,7,1500
+1102,C018,2026-10-01,Mouse,Electronics,6,800
+1103,C009,,Air Purifier,Home & Kitchen,5,9500
+1104,C011,2026-10-15,Wireless Charger,Accessories,7,1800
+1105,C036,2026-10-04,Laptop,Electronics,2,75000
+1106,C010,2026-10-02,Electric Kettle,Home & Kitchen,6,1600
+1107,C038,2026-10-05,Electric Kettle,Home & Kitchen,7,1600
+1108,C009,2026-10-10,Mouse,Electronics,6,800
+1109,C003,2026-10-07,Desk Mat,Office Supplies,4,700
+1110,C007,2026-10-25,Desk Mat,Office Supplies,-5,700
+1111,C027,2026-10-24,Water Bottle,Home & Kitchen,3,600
+1112,C016,2026-10-26,Smartwatch,Electronics,3,5500
+1113,C027,2026-10-06,Laptop,Electronics,6,75000
+1060,C035,2026-10-24,Monitor,Electronics,8,15000
+1114,C016,2026-10-06,External SSD,Electronics,2,8500
+1115,C025,2026-10-28,Mouse,Electronics,8,800
+1116,C015,2026-10-27,Tablet,Electronics,8,28000
+1117,C023,2026-10-27,Web Camera,Electronics,4,3200
+1118,C015,,Laptop,Electronics,4,75000
+1119,C026,2026-10-09,Ergonomic Chair,Office Supplies,2,12000
+1120,C018,2026-10-21,Desk Mat,Office Supplies,7,700
+1121,C035,2026-10-31,Ergonomic Chair,Office Supplies,1,12000
+1122,C008,2026-10-06,External SSD,Electronics,5,8500
+1123,C003,2026-10-20,Headphones,Electronics,7,2500
+1124,C023,2026-10-26,Wireless Charger,Accessories,-3,1800
+1125,C028,2026-10-17,Water Bottle,Home & Kitchen,2,600
+1126,C025,2026-10-07,Blender,Home & Kitchen,5,2800
+1127,C003,2026-10-14,Laptop Stand,Accessories,1,1400
+1128,C034,2026-10-18,Backpack,Accessories,4,2200
+1129,C024,2026-10-03,Ballpoint Pen,Office Supplies,6,50
+1091,C005,2026-10-07,Electric Kettle,Home & Kitchen,5,1600
+1130,C021,2026-10-28,Desk Lamp,Home & Kitchen,2,1200
+1131,C020,2026-10-10,Coffee Maker,Home & Kitchen,7,4500
+1132,C021,2026-10-23,Notebook,Office Supplies,5,150
+1133,C036,,Monitor,Electronics,4,15000
+1134,C027,2026-10-31,Desk Lamp,Home & Kitchen,7,1200
+1135,C012,2026-10-19,Water Bottle,Home & Kitchen,5,600
+1136,C026,2026-10-27,Electric Kettle,Home & Kitchen,1,1600
+1137,C020,2026-10-07,Web Camera,Electronics,7,3200
+1138,C038,2026-10-21,Water Bottle,Home & Kitchen,6,600
+1139,C030,2026-10-15,Whiteboard,Office Supplies,4,1800
+1140,C033,2026-10-26,Stapler,Office Supplies,-2,300
+1141,C006,2026-10-17,Web Camera,Electronics,6,3200
+1142,C006,2026-10-08,Bluetooth Speaker,Accessories,5,3500
+1033,C010,2026-10-06,Air Purifier,Home & Kitchen,7,9500
+1143,C013,2026-10-01,Monitor,Electronics,1,15000
+1144,C016,2026-10-20,Stapler,Office Supplies,2,300
+1145,C030,2026-10-29,Ballpoint Pen,Office Supplies,4,50
+1146,C025,2026-10-13,Stapler,Office Supplies,4,300
+1147,C010,,Air Purifier,Home & Kitchen,1,9500
+1148,C007,2026-10-14,Bluetooth Speaker,Accessories,4,3500
+1149,C012,2026-10-31,Backpack,Accessories,8,2200
+1150,C004,2026-10-08,Electric Kettle,Home & Kitchen,2,1600
+1151,C030,2026-10-26,Monitor,Electronics,8,15000
+1152,C034,2026-10-20,Electric Kettle,Home & Kitchen,6,1600
+1153,C029,2026-10-27,Water Bottle,Home & Kitchen,7,600
+1154,C036,2026-10-29,Whiteboard,Office Supplies,-2,1800
+1155,C031,2026-10-09,Whiteboard,Office Supplies,4,1800
+1156,C018,2026-10-25,Bluetooth Speaker,Accessories,8,3500
+1157,C016,2026-10-15,External SSD,Electronics,2,8500
+1158,C019,2026-10-09,USB-C Cable,Electronics,6,450
+1094,C029,2026-10-23,Electric Kettle,Home & Kitchen,5,1600
+1159,C035,2026-10-05,Keyboard,Electronics,3,1500
+1160,C015,2026-10-23,Notebook,Office Supplies,3,150
+1161,C014,2026-10-14,Keyboard,Electronics,7,1500
+1162,C022,,Electric Kettle,Home & Kitchen,8,1600
+1163,C027,2026-10-07,Mouse,Electronics,7,800
+1164,C025,2026-10-19,Bluetooth Speaker,Accessories,1,3500
+1165,C037,2026-10-16,Notebook,Office Supplies,1,150
+1166,C023,2026-10-25,Web Camera,Electronics,7,3200
+1167,C027,2026-10-24,Electric Kettle,Home & Kitchen,4,1600
+1168,C032,2026-10-09,USB-C Cable,Electronics,7,450
+1169,C032,2026-10-13,Laptop,Electronics,-3,75000
+1170,C026,2026-10-06,Wireless Charger,Accessories,8,1800
+1037,C035,2026-10-09,Bluetooth Speaker,Accessories,6,3500
+1171,C040,2026-10-01,Electric Kettle,Home & Kitchen,7,1600
+1172,C038,,Blender,Home & Kitchen,1,2800
+1173,C006,2026-10-14,Air Purifier,Home & Kitchen,3,9500
+1174,C030,2026-10-02,Smartwatch,Electronics,5,5500
+1175,C025,2026-10-07,Ergonomic Chair,Office Supplies,-4,12000
+1176,C021,2026-10-25,Ergonomic Chair,Office Supplies,7,12000
+1177,C018,2026-10-31,Bluetooth Speaker,Accessories,7,3500
+1178,C017,2026-10-16,Keyboard,Electronics,1,1500
+1179,C035,,Mouse,Electronics,6,800
+1180,C015,2026-10-03,Air Purifier,Home & Kitchen,1,9500
+1181,C002,2026-10-07,USB-C Cable,Electronics,1,450
+1182,C040,2026-10-08,Monitor,Electronics,-2,15000
+1183,C031,2026-10-04,Desk Lamp,Home & Kitchen,4,1200
+1137,C020,2026-10-07,Web Camera,Electronics,7,3200
+1184,C017,2026-10-12,Bluetooth Speaker,Accessories,3,3500
+1185,C039,,Water Bottle,Home & Kitchen,2,600
+1186,C011,2026-10-04,Web Camera,Electronics,1,3200
+1187,C020,2026-10-22,Blender,Home & Kitchen,-4,2800
+1188,C026,2026-10-07,Laptop Stand,Accessories,2,1400
