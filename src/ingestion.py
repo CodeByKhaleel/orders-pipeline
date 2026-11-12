@@ -53,6 +53,25 @@ with open('../data/raw/orders.csv') as read_data:
                 "row": row,
                 "reason": ["Invalid number of columns"]
             })
-    print("VALID ROWS",len(valid_rows))
-    print("REJECTED ROWS",len(rejected_rows))
-    print(rejected_rows)
+    # print("VALID ROWS",len(valid_rows))
+    # print("REJECTED ROWS",len(rejected_rows))
+    # print(rejected_rows)
+with open('../data/processed/valid_orders.csv','w',newline='') as file:
+    writer = csv.DictWriter(file,fieldnames=[
+        'order_id',
+        'customer_id',
+        'order_date',
+        'product',
+        'category',
+        'quantity',
+        'unit_price'
+    ])
+    writer.writeheader()
+    writer.writerows(valid_rows)
+with open('../data/processed/rejected_orders.csv','w',newline='') as file:
+    writer = csv.DictWriter(file,fieldnames=[
+        'row',
+        'reason'
+    ])
+    writer.writeheader()
+    writer.writerows(rejected_rows)

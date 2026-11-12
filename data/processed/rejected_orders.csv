@@ -1,0 +1,41 @@
+row,reason
+"['1009', 'C028', '', 'Ergonomic Chair', 'Office Supplies', '5', '12000']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1016', 'C005', '2026-10-22', 'Mouse', 'Electronics', '-2', '800']",['Invalid quantity']
+"['1006', 'C036', '2026-10-23', 'Tablet', 'Electronics', '7', '28000']",['Duplicate order ID']
+"['1025', 'C026', '', 'External SSD', 'Electronics', '2', '8500']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1032', 'C006', '2026-10-02', 'Bluetooth Speaker', 'Accessories', '-1', '3500']",['Invalid quantity']
+"['1034', 'C039', '2026-10-13', 'Keyboard', 'Electronics', '7', '1500']",['Duplicate order ID']
+"['1041', 'C020', '', 'Air Purifier', 'Home & Kitchen', '4', '9500']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1047', 'C006', '2026-10-16', 'Wireless Charger', 'Accessories', '-1', '1800']",['Invalid quantity']
+"['1033', 'C010', '2026-10-06', 'Air Purifier', 'Home & Kitchen', '7', '9500']",['Duplicate order ID']
+"['1057', 'C015', '', 'Keyboard', 'Electronics', '1', '1500']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1063', 'C023', '2026-10-14', 'Ballpoint Pen', 'Office Supplies', '-4', '50']",['Invalid quantity']
+"['1064', 'C004', '2026-10-21', 'Desk Lamp', 'Home & Kitchen', '2', '1200']",['Duplicate order ID']
+"['1073', 'C014', '', 'Notebook', 'Office Supplies', '1', '150']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1079', 'C021', '2026-10-02', 'Mouse', 'Electronics', '-5', '800']",['Invalid quantity']
+"['1061', 'C016', '2026-10-16', 'Backpack', 'Accessories', '7', '2200']",['Duplicate order ID']
+"['1087', 'C016', '', 'External SSD', 'Electronics', '7', '8500']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1093', 'C016', '2026-10-10', 'Desk Mat', 'Office Supplies', '-2', '700']",['Invalid quantity']
+"['1089', 'C030', '2026-10-30', 'Ergonomic Chair', 'Office Supplies', '2', '12000']",['Duplicate order ID']
+"['1103', 'C009', '', 'Air Purifier', 'Home & Kitchen', '5', '9500']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1110', 'C007', '2026-10-25', 'Desk Mat', 'Office Supplies', '-5', '700']",['Invalid quantity']
+"['1060', 'C035', '2026-10-24', 'Monitor', 'Electronics', '8', '15000']",['Duplicate order ID']
+"['1118', 'C015', '', 'Laptop', 'Electronics', '4', '75000']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1124', 'C023', '2026-10-26', 'Wireless Charger', 'Accessories', '-3', '1800']",['Invalid quantity']
+"['1091', 'C005', '2026-10-07', 'Electric Kettle', 'Home & Kitchen', '5', '1600']",['Duplicate order ID']
+"['1133', 'C036', '', 'Monitor', 'Electronics', '4', '15000']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1140', 'C033', '2026-10-26', 'Stapler', 'Office Supplies', '-2', '300']",['Invalid quantity']
+"['1033', 'C010', '2026-10-06', 'Air Purifier', 'Home & Kitchen', '7', '9500']",['Duplicate order ID']
+"['1147', 'C010', '', 'Air Purifier', 'Home & Kitchen', '1', '9500']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1154', 'C036', '2026-10-29', 'Whiteboard', 'Office Supplies', '-2', '1800']",['Invalid quantity']
+"['1094', 'C029', '2026-10-23', 'Electric Kettle', 'Home & Kitchen', '5', '1600']",['Duplicate order ID']
+"['1162', 'C022', '', 'Electric Kettle', 'Home & Kitchen', '8', '1600']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1169', 'C032', '2026-10-13', 'Laptop', 'Electronics', '-3', '75000']",['Invalid quantity']
+"['1037', 'C035', '2026-10-09', 'Bluetooth Speaker', 'Accessories', '6', '3500']",['Duplicate order ID']
+"['1172', 'C038', '', 'Blender', 'Home & Kitchen', '1', '2800']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1175', 'C025', '2026-10-07', 'Ergonomic Chair', 'Office Supplies', '-4', '12000']",['Invalid quantity']
+"['1179', 'C035', '', 'Mouse', 'Electronics', '6', '800']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1182', 'C040', '2026-10-08', 'Monitor', 'Electronics', '-2', '15000']",['Invalid quantity']
+"['1137', 'C020', '2026-10-07', 'Web Camera', 'Electronics', '7', '3200']",['Duplicate order ID']
+"['1185', 'C039', '', 'Water Bottle', 'Home & Kitchen', '2', '600']","[""time data '' does not match format '%Y-%m-%d'""]"
+"['1187', 'C020', '2026-10-22', 'Blender', 'Home & Kitchen', '-4', '2800']",['Invalid quantity']
